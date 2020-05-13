@@ -1,5 +1,5 @@
 # errors
-the most easiest way to print stacktrace for golang
+the most easiest way to print stacktrace for error in golang
 
 ## Required Go Version
 
