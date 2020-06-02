@@ -11,7 +11,7 @@ func A() error {
 }
 
 func B() error {
-	return Wrap(A())
+	return Wrap(A() )
 }
 
 func TestWrap(t *testing.T) {
